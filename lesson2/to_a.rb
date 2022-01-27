@@ -1,2 +1,2 @@
 h = { fst:, snd: 2 }
-p h.to_a
+puts h.to_a
